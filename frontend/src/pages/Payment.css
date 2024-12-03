@@ -1,0 +1,18 @@
+.payment {
+  max-width: 500px;
+  margin: 2rem auto;
+  background-color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.payment h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.payment p {
+  margin-bottom: 1rem;
+}
+

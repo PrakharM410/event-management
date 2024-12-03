@@ -1,0 +1,37 @@
+/* LandingPage.css */
+
+.landing-page {
+  text-align: center;
+  padding: 100px 0;
+  background-color: #f4f4f4;
+}
+
+.landing-page .content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.landing-page h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.landing-page .role-section {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.landing-page .role-btn {
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.landing-page .role-btn:hover {
+  background-color: #0056b3;
+}

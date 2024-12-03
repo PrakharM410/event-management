@@ -1,0 +1,27 @@
+/* CreateEvent.css */
+.create-event {
+  padding: 50px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.create-event input, .create-event textarea {
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.create-event button {
+  width: 100%;
+  padding: 12px;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+}
+
+.create-event button:hover {
+  background-color: #0056b3;
+}
